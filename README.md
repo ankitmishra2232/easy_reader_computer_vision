@@ -1,1 +1,1 @@
-"# easy_reader_computer_vision" 
+# easy_reader_computer_vision
